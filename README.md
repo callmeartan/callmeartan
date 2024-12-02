@@ -3,7 +3,7 @@ Hi, I'm Artan Ahmadi 👨‍💻<br><br>
 I'm a **computer engineering student** and **developer** passionate about creating innovative and user-centric applications. With a strong foundation in **Flutter** and a keen interest in **UI/UX design**, I'm working on projects that merge creativity and technology.
 
 ## Tech Stack 🛠️
-- **Programming:** Dart, Java, Python
+- **Programming:** Dart, C++ , Python
 - **Frameworks & Tools:** Flutter, Android Studio, Visual Studio Code
 - **Version Control:** Git, GitHub
 - **UI/UX:** Exploring design principles to create intuitive user experiences
