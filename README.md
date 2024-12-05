@@ -49,4 +49,3 @@ I'm a **computer engineering student** and **developer** passionate about creati
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=callmeartan&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
