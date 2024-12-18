@@ -26,7 +26,7 @@ I'm a **computer engineering student** and **developer** passionate about creati
 
 ## Get in Touch 📬
 - GitHub: [callmeartan](https://github.com/callmeartan)
-- LinkedIn: [Artan Ahmadi](https://linkedin.com/in/callmeartan)
+- LinkedIn: [Artan Ahmadi](https://www.linkedin.com/in/ali-ahmadi-dizaji/)
 - Email: **artanahmadi@icloud.com**
 
 ## 🌐 Socials:
