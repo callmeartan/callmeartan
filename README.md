@@ -4,15 +4,16 @@ I'm a **computer engineering student** and **developer** passionate about creati
 
 ## Tech Stack 🛠️
 - **Programming:** Dart, C++ , Python
-- **Frameworks & Tools:** Flutter, Android Studio, Visual Studio Code
+- **Frameworks & Tools:** Flutter, Cursor, Android Studio, Visual Studio Code
 - **Version Control:** Git, GitHub
 - **UI/UX:** Exploring design principles to create intuitive user experiences
 - **Other Interests:** Mobile app development, cross-platform solutions, task management systems
 
 ## Current Projects 🚀
 - **Habitly**: A habit tracker and task manager built in Flutter ([GitHub Link](https://github.com/callmeartan/habitly))
-- **SoundFrame**: A mood-driven playlist generator
-- **MonoFrame**: A personal portfolio website for showcasing photography projects
+- **Devio**: AI-powered mobile app enabling secure interaction with locally hosted large language models (LLMs) like Ollama. ![image](https://github.com/user-attachments/assets/8cc6e338-1680-4013-8d82-4b1d32427af9)
+ ([GitHub Link](https://github.com/callmeartan/Devio))
+
 
 ## Learning & Goals 🎯
 - **Advanced Flutter Development:** Building scalable and production-ready apps
@@ -21,7 +22,7 @@ I'm a **computer engineering student** and **developer** passionate about creati
 - **Software Engineering Principles:** Writing clean, maintainable, and efficient code
 
 ## Education 🎓
-- Pursuing a Bachelor's in Computer Engineering at **Beykent University**
+- Bachelor's in Computer Engineering at **Beykent University**
 - Active in applying academic concepts to real-world problems and projects
 
 ## Get in Touch 📬
