@@ -11,7 +11,7 @@ I'm a **computer engineering student** and **developer** passionate about creati
 
 ## Current Projects 🚀
 - **Habitly**: A habit tracker and task manager built in Flutter ([GitHub Link](https://github.com/callmeartan/habitly))
-- **Devio**: AI-powered mobile app enabling secure interaction with locally hosted large language models (LLMs) like Ollama. ![image](https://github.com/user-attachments/assets/8cc6e338-1680-4013-8d82-4b1d32427af9)
+- **Devio**: AI-powered mobile app enabling secure interaction with locally hosted large language models (LLMs) like Ollama.
  ([GitHub Link](https://github.com/callmeartan/Devio))
 
 
