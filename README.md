@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Artan Ahmadi 👨‍💻<br><br>
-I'm a **computer engineering student** and **multiplatform mobile developer** passionate about creating innovative and user-centric applications. With expertise in **Flutter** and a strong focus on **AI integration** and **modern UI/UX design**, I build applications that merge cutting-edge technology with exceptional user experiences.
+Flutter Developer with 3+ years of experience delivering high-performance cross-platform apps. Published multiple apps on the App Store, including DevIO (Top 20 in Developer Tools). Passionate about AI integration, clean architecture, and creating exceptional user experiences.
 
 🌟 **Currently specializing in:**
 - Cross-platform mobile development with Flutter
