@@ -10,7 +10,7 @@ Hi, I'm **Artan Ahmadi** — a **Software Engineer** focused on building **produ
 
 I design and ship **real-world software**: from e-commerce platforms to AI-powered applications, with a strong emphasis on **local-first AI**, **LLM integration**, and **clean, maintainable systems**.
 
-I'm the creator of [**Silver Cam**](https://silvercam.com), a full-featured e-commerce platform, and I actively work with **Supabase** for authentication, email workflows, edge functions, and data-driven backends. My current technical focus is on integrating AI responsibly, minimizing cloud dependency, and exploring **on-device / local LLM approaches**.
+I'm the creator of [**Silver Cam**](https://silver-cam.com), a full-featured e-commerce platform, and I actively work with **Supabase** for authentication, email workflows, edge functions, and data-driven backends. My current technical focus is on integrating AI responsibly, minimizing cloud dependency, and exploring **on-device / local LLM approaches**.
 
 ---
 
