@@ -1,124 +1,167 @@
-# 💫 About Me:
-Hi, I'm Artan Ahmadi 👨‍💻<br><br>
-Flutter Developer with 3+ years of experience delivering high-performance cross-platform apps. Published multiple apps on the App Store, including DevIO (Top 20 in Developer Tools). Passionate about AI integration, clean architecture, and creating exceptional user experiences.
+💫 About Me
+Hi, I’m Artan Ahmadi — a Software Engineer focused on building production-grade products that combine AI, privacy-first architecture, and scalable web systems.
 
-🌟 **Currently specializing in:**
-- Cross-platform mobile development with Flutter
-- AI-powered applications and LLM integration
-- Modern web development with Next.js and React
-- Professional UI/UX design principles
+I design and ship real-world software: from e-commerce platforms to AI-powered applications, with a strong emphasis on local-first AI, LLM integration, and clean, maintainable systems.
 
-## Tech Stack 🛠️
+I’m the creator of Silver Cam, a full-featured e-commerce platform, and I actively work with Supabase for authentication, email workflows, edge functions, and data-driven backends. My current technical focus is on integrating AI responsibly, minimizing cloud dependency, and exploring on-device / local LLM approaches.
 
-### Mobile Development
-- **Flutter** (Expert) - Cross-platform mobile applications
-- **Dart** (Expert) - Primary development language
-- **Firebase** (Expert) - Backend-as-a-Service integration
-- **Riverpod** (Advanced) - State management
-- **Bloc** (Advanced) - Complex state management
+🧠 Core Focus Areas
+AI & LLM Engineering (local-first, privacy-oriented)
 
-### Programming Languages
-- **Dart** - Flutter development and mobile apps
-- **C++** - System programming and algorithms
-- **Python** - Scripting and data processing
-- **JavaScript/TypeScript** - Web development
-- **Swift** - Native iOS development
+Full-Stack Web Development (production systems, not demos)
 
-### Web Development
-- **Next.js** - React-based web applications
-- **React** - Frontend development
-- **TailwindCSS** - Modern CSS framework
-- **TypeScript** - Type-safe development
+Backend Architecture with Supabase (Auth, Edge Functions, Email)
 
-### AI & Machine Learning
-- **Ollama** - Local LLM integration
-- **AI Development Tools** - Integration in mobile apps
-- **LLM Solutions** - Large language model implementation
-- **Generative AI** - AI-assisted development
+SEO-optimized, conversion-focused e-commerce
 
-### Tools & Platforms
-- **Git & GitHub** - Version control
-- **Firebase** - Cloud services and hosting
-- **Android Studio** - Mobile development
-- **Visual Studio Code** - Code editing
-- **Cursor** - AI-powered development
-- **Figma** - UI/UX design
+AI-assisted UX without sacrificing user privacy
 
-## Current Projects 🚀
+🧠 AI & Privacy-First Engineering
+I specialize in practical AI, not hype.
 
-### 🏆 **Featured Projects**
+Local LLM integration (Ollama, MLX-based workflows)
 
-**[Habitly](https://github.com/callmeartan/habitly)** - *Mobile App* 📱
-- Habit tracker and task manager built with Flutter
-- Clean, intuitive UI for building positive habits
-- Available on [App Store](https://apps.apple.com/us/app/habitly-dailydo-rythm/id6738872492)
-- **Tech:** Flutter, Dart, Firebase, UI/UX
+Hybrid AI architectures (local inference + selective cloud usage)
 
-**[Devio](https://github.com/callmeartan/Devio)** - *AI Mobile App* 🤖
-- AI-powered mobile app for secure LLM interaction
-- Connects to locally hosted large language models like Ollama
-- Available on [App Store](https://apps.apple.com/us/app/devio/id6743007669)
-- **Tech:** Flutter, Dart, AI, LLMs, Ollama
+Privacy-preserving AI design
 
-**[Portfolio Website](https://github.com/callmeartan/artan-website)** - *Web Development* 🌐
-- Modern, responsive portfolio website
-- Built with Next.js, TypeScript, and TailwindCSS
-- Live at [artan-portfolio.web.app](https://artan-portfolio.web.app)
-- **Tech:** Next.js, React, TailwindCSS, Firebase Hosting
+AI features embedded into real products, not standalone demos
 
-## Learning & Goals 🎯
-- **AI Integration:** Building intelligent mobile applications
-- **Advanced Flutter:** Production-ready, scalable mobile apps
-- **Full-Stack Development:** Expanding web development expertise
-- **Modern UI/UX:** Creating exceptional user experiences
-- **Cloud Technologies:** Leveraging Firebase and cloud services
-- **Open Source:** Contributing to the developer community
+Edge-based AI workflows using serverless functions
 
-## Education 🎓
-- **Bachelor's in Computer Engineering** at **Istanbul Beykent University** (2020-2025)
-- **Focus Areas:** Software Engineering, Mobile Development, AI, Data Structures
-- **Languages:** English, Persian, Turkish (fluent)
+Prompt engineering & system design for production AI
 
-## Professional Experience 💼
-- **3+ Years** in Flutter development
-- **Published Apps** on App Store with positive user reviews
-- **AI Integration** expertise in mobile applications
-- **Modern Web Development** with React and Next.js
+I strongly believe in local inference, user data ownership, and minimizing unnecessary data exposure.
 
-## Get in Touch 📬
-- 🌐 **Website:** [artan-portfolio.web.app](https://artan-portfolio.web.app)
-- 📧 **Email:** [artanahmadi@icloud.com](mailto:artanahmadi@icloud.com)
-- 🐙 **GitHub:** [callmeartan](https://github.com/callmeartan)
-- 💼 **LinkedIn:** [Ali Ahmadi Dizaji](https://www.linkedin.com/in/ali-ahmadi-dizaji/)
-- 🏪 **App Store:** [Developer Profile](https://apps.apple.com/us/developer/ali-ahmadi-dizaji/id1782702075)
+🏗️ Production Systems & Platforms
+🏪 Silver Cam — E-Commerce Platform
+Designed and built end-to-end
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/callmeartan) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ahmadi-dizaji/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://artan-portfolio.web.app)
+Supabase backend:
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+Authentication (email / OTP)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=callmeartan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=callmeartan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=callmeartan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Email handling & order notifications
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=callmeartan&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+Edge Functions for business logic
 
----
-[![](https://visitcount.itsvg.in/api?id=callmeartan&icon=0&color=0)](https://visitcount.itsvg.in)
+SEO-optimized product pages
+
+Scalable architecture focused on real sales and operations
+
+Built with extensibility for AI-driven features
+
+🛠️ Tech Stack
+AI & Machine Learning
+Local LLMs (Ollama, MLX-based workflows)
+
+LLM Integration in production applications
+
+Hybrid AI Architectures (local-first + selective cloud)
+
+Prompt Engineering & AI System Design
+
+Privacy-preserving AI pipelines
+
+Backend & Infrastructure
+Supabase — Auth, PostgreSQL, Edge Functions, Email workflows
+
+Serverless Architecture
+
+RESTful API Design
+
+Backend logic on Edge Functions
+
+SEO-aware data modeling
+
+Web Development
+Next.js
+
+React
+
+TypeScript
+
+Tailwind CSS
+
+Performance & SEO Optimization
+
+Conversion-focused UI architecture
+
+Mobile Development
+Flutter — Production-grade cross-platform applications
+
+Dart — Strongly typed mobile development
+
+Mobile Architecture (clean architecture, scalable state management)
+
+AI Integration in Mobile Apps
+
+App Store Production & Release Management
+
+Secure client–AI communication
+
+Programming Languages
+TypeScript / JavaScript
+
+Python
+
+Dart
+
+C++
+
+Tools & Workflow
+Git & GitHub
+
+Cursor (AI-assisted engineering)
+
+Visual Studio Code
+
+Android Studio
+
+Figma
+
+CI/CD workflows
+
+
+[![My Skills](https://skillicons.dev/icons?i=bash,dart,docker,flutter,html,git,nodejs,react,graphql,flask,fastapi,express,vue,postgres,mongodb&perline=8)](https://skillicons.dev)
+🚀 Selected Projects
+Silver Cam
+Production e-commerce platform
+
+Supabase-powered backend
+
+SEO-driven product architecture
+
+Designed for scalability and AI extensibility
+
+DevIO
+AI-focused application
+
+Secure interaction with locally hosted LLMs
+
+Emphasis on privacy and local inference
+
+🎯 Engineering Philosophy
+Real products > toy projects
+
+Local-first AI whenever possible
+
+Privacy is a feature, not an afterthought
+
+Clean architecture scales better than clever hacks
+
+AI should serve the product, not dominate it
+
+🎓 Education
+B.Sc. in Computer Engineering
+Istanbul Beykent University
+
+📬 Get in Touch
+🌐 Website: https://artan-portfolio.web.app
+
+📧 Email: artanahmadi@icloud.com
+
+🐙 GitHub: https://github.com/callmeartan
+
+💼 LinkedIn: https://www.linkedin.com/in/ali-ahmadi-dizaji
 
