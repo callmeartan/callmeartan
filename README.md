@@ -172,7 +172,7 @@ I'm the creator of [**Silver Cam**](https://silvercam.com), a full-featured e-co
   <a href="https://github.com/callmeartan">
     <img src="https://img.shields.io/badge/🐙_GitHub-@callmeartan-black?style=for-the-badge" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/ali-ahmadi-dizaji">
+  <a href="https://www.linkedin.com/in/artan-ahmadi>
     <img src="https://img.shields.io/badge/💼_LinkedIn-@ali--ahmadi--dizaji-blue?style=for-the-badge" alt="LinkedIn"/>
   </a>
 </p>
