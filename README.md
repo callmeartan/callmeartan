@@ -124,7 +124,7 @@ I'm the creator of [**Silver Cam**](https://silvercam.com), a full-featured e-co
 
 ## 🚀 **Selected Projects**
 
-### 🏪 [**Silver Cam**](https://silvercam.com)
+### 🏪 [**Silver Cam**](https://silver-cam.com)
 > *Production E-Commerce Platform*
 
 - **🗄️ Supabase-powered Backend**
