@@ -122,6 +122,28 @@ I'm the creator of [**Silver Cam**](https://silvercam.com), a full-featured e-co
 
 ---
 
+## 📊 **GitHub Analytics**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=callmeartan&label=Profile%20views&color=0e75b6&style=flat" alt="callmeartan" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callmeartan&theme=transparent" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=callmeartan&theme=transparent" alt="Repos per Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=callmeartan&theme=transparent" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=callmeartan&theme=transparent" alt="GitHub Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=callmeartan&theme=transparent&utcOffset=3" alt="Productive Time"/>
+</p>
+
+---
+
 ## 🚀 **Selected Projects**
 
 ### 🏪 [**Silver Cam**](https://silver-cam.com)
