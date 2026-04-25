@@ -1,4 +1,4 @@
-# 💫 **Artan Ahmadi**
+# **Artan Ahmadi**
 # Software Engineer | AI & Full-Stack Systems
 
 
