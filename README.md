@@ -1,22 +1,23 @@
 # **Artan Ahmadi**
-# Software Engineer | AI & Full-Stack Systems
+# Software Engineer | AI, Full-Stack & Network Systems
 
 
 
 > 
-> I specialize in architecting production-grade web and mobile applications with a heavy emphasis on **privacy-first AI** and **scalable backend architecture**.  
+> I specialize in architecting production-grade web and mobile applications with a heavy emphasis on **privacy-first AI**, **scalable backend architecture**, and **secure network/VPS infrastructure**.  
 > 
-> *   **Core focus:** Local LLM integration, Supabase-driven backends, and high-performance Flutter/Next.js deployments.
-> *   **Philosophy:** Build for the user, optimize for privacy, and scale via clean architecture.
+> *   **Core focus:** Local LLM integration, Supabase-driven backends, high-performance Flutter/Next.js deployments, and Linux VPS/network automation.
+> *   **Philosophy:** Build for the user, optimize for privacy, and scale via clean architecture and reliable infrastructure.
 ---
 
 ## 🧠 **Engineering Philosophy**
 > *I believe in building tools, not just demos.*
 
-*   **Real products > Toy projects:** Focused on SEO, conversion, and scalability.  
+*   **Real products > Toy projects:** Focused on SEO, conversion, reliability, and scalability.  
 *   **Local-first AI:** Utilizing `LM Studio`, `llama.cpp`, and `Ollama` to bring intelligence directly to the user/device.  
-*   **Privacy as a Feature:** Minimizing unnecessary data exposure through smart architecture.  
+*   **Privacy as a Feature:** Minimizing unnecessary data exposure through smart architecture and self-controlled infrastructure.  
 *   **Clean Architecture:** Writing maintainable, type-safe code that scales without technical debt.
+*   **Infrastructure Discipline:** Designing VPS, network, DNS, reverse-proxy, and deployment setups that are reproducible, observable, and secure.
 
 ---
 
@@ -33,6 +34,12 @@
 *   **Local Inference:** Implemented secure, local LLM interactions using **llama.cpp** and **LM Studio** to ensure sensitive data never leaves the device.
 *   **Hybrid Architecture:** Optimized the balance between local processing and cloud-based utility.
 
+### 🌐 [**LinkQuota**](https://github.com/callmeartan/LinkQuota) — *Network & VPS Subscription Infrastructure*
+**An open-source Netlify Edge relay and VPS-side VLESS subscription manager.**
+*   **Network Layer:** Built routing for subscription, managed traffic, and upstream relay paths using **Netlify Edge Functions** and **Nginx**.
+*   **VPS Operations:** Designed Linux/systemd service setup, quota enforcement, health checks, and reproducible VPS deployment docs.
+*   **Privacy & Safety:** Sanitized public release workflow with strict secret handling for tokens, SSH keys, customer UUIDs, and infrastructure details.
+
 ---
 
 ## 🛠️ **Technical Arsenal**
@@ -42,23 +49,28 @@
 *   **Architecture:** Hybrid (Local + Cloud) pipelines and Privacy-preserving AI design.
 
 ### ⚙️ **Backend & Infrastructure**
-*   **BaaS/Serverless:** **Supabase** (Auth, PostgreSQL, Edge Functions, Email/SMTP), **Vercel** (Edge functions, deployment, hosting).
-*   **Deployment:** Serverless architecture, SEO-aware data modeling, and CI/CD workflows.
+*   **BaaS/Serverless:** **Supabase** (Auth, PostgreSQL, Edge Functions, Email/SMTP), **Vercel** and **Netlify** (Edge functions, deployment, hosting).
+*   **Deployment:** Serverless + VPS hybrid architecture, SEO-aware data modeling, CI/CD workflows, and production release management.
 
-### 🌐 **Web & Mobile Development**
+### 🌐 **Network & VPS Operations**
+*   **VPS Setup:** Linux server provisioning, SSH access, firewall basics, service hardening, and repeatable deployment guides.
+*   **Networking:** DNS, TLS/HTTPS routing, reverse proxies, Nginx config, edge relays, ports, health checks, and traffic flow debugging.
+*   **Services:** `systemd`, background timers, log inspection, quota enforcement, Xray/VLESS management, and secure environment configuration.
+
+### 📱 **Web & Mobile Development**
 *   **Mobile:** **Flutter** & **Dart** (Production-grade mobile architecture, App Store release management).
 *   **Web:** **Next.js**, **React**, **TypeScript**, **Tailwind CSS**.
 *   **Languages:** TypeScript/JavaScript, Python, Dart, C++.
 
 ### 🎨 **Tools & Design**
-*   **Engineering:** Git, GitHub, Claude Code, Codex, Android Studio.
+*   **Engineering:** Git, GitHub, SSH, Linux, Nginx, Claude Code, Codex, Android Studio.
 *   **Design:** Claude Design.
 
 ---
 
 ## 📊 **GitHub Analytics**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,react,nextjs,typescript,nodejs,postgres,mongodb,python,getgit,html,css,tailwind&perline=8" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,react,nextjs,typescript,nodejs,postgres,mongodb,python,git,linux,nginx,html,css,tailwind&perline=8" alt="My Skills"/>
 </p>
 
 <p align="center">
