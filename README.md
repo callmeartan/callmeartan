@@ -22,7 +22,7 @@ A commercial e-commerce platform built with SEO, reliability, and conversion in 
 - Deployed through **Vercel** with edge delivery and CI/CD.
 - Focused on product performance, crawlability, and a frontend that supports real purchase flows.
 
-### [DevIO](https://devio.app) — Privacy-First AI Application
+### [DevIO](https://github.com/callmeartan/devio) — Privacy-First AI Application
 A local-first AI toolset designed around user control and data privacy.
 
 - Integrated local model providers including **llama.cpp**, **LM Studio**, and OpenAI-compatible endpoints.
