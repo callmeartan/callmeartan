@@ -96,17 +96,11 @@
 
 ## 📬 **Get In Touch**
 <p align="center">
-  <a href="https://artan-portfolio.web.app">
-    <img src="https://img.shields.io/badge/🌐_Website-artan--portfolio.web.app-blue?style=for-the-badge" alt="Website"/>
-  </a>
   <a href="mailto:artanahmadi@icloud.com">
     <img src="https://img.shields.io/badge/📧_Email-artanahmadi@icloud.com-red?style=for-the-badge" alt="Email"/>
   </a>
   <a href="https://github.com/callmeartan">
     <img src="https://img.shields.io/badge/🐙_GitHub-@callmeartan-black?style=for-the-badge" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/artan-ahmadi">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-@artan-ahmadi-blue?style=for-the-badge" alt="LinkedIn"/>
   </a>
 </p>
 
