@@ -1,79 +1,76 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0f2027,100:203a43&height=180&section=header&text=Artan%20Ahmadi&fontSize=46&fontColor=e2e8f0&fontAlign=50&fontAlignY=58&desc=software%20engineer%20%E2%80%94%20AI%20%C2%B7%20full-stack%20%C2%B7%20infrastructure&descSize=14&descColor=64748b&descAlignY=78" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1c1c1c&height=160&section=header&text=Artan%20Ahmadi&fontSize=42&fontColor=f1f1f1&fontAlign=50&fontAlignY=58&desc=software%20engineer&descSize=13&descColor=555555&descAlignY=78" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=3000&color=22d3ee&center=true&vCenter=true&width=600&lines=privacy-first+AI+systems+%7C+local-first+architecture;full-stack+%E2%86%92+interface+%2B+backend+%2B+infra+%2B+network;Istanbul+%C2%B7+open+to+interesting+work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=3000&color=666666&center=true&vCenter=true&width=560&lines=senior+engineer+%C2%B7+full-stack+%C2%B7+AI+%C2%B7+infra;i+learn+it+%E2%86%92+i+build+it+%E2%86%92+i+ship+it;istanbul+%C2%B7+open+to+interesting+work" alt="Typing SVG" />
 </div>
 
 <br>
 
-```yaml
-# artan.config.yml
+```
+I've been in love with computers for as long as I can remember.
+Not as a career choice — the machine just genuinely fascinates me.
 
-name:      Artan Ahmadi
+When something catches my interest I go all the way in.
+Local LLMs, network infrastructure, mobile apps, e-commerce systems —
+I don't study these things to put them on a resume.
+I study them because I can't help it.
 
-
-focus:
-  - privacy-first AI applications
-  - full-stack product engineering
-  - VPS and network infrastructure
-
-approach:
-  - work across the whole stack — interface, API, data, deployment, DNS
-  - treat privacy as an architectural constraint, not a setting
-  - document setup paths so systems are reproducible without calling me
-  - debug the full request path before assuming where the problem is
-
-philosophy: "I'd rather understand a system than be clever inside it"
+The side effect is that I usually end up shipping something real.
+That's just what happens when you care enough.
 ```
 
 <br>
 
 ---
 
-## ` ` Selected Work
+## `/>` Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔒 [DevIO](https://github.com/callmeartan/devio)
-![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=flat-square&logo=flutter&logoColor=22d3ee)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-0d0d0d?style=flat-square&logo=meta&logoColor=22d3ee)
-![Local LLMs](https://img.shields.io/badge/Local_LLMs-0d0d0d?style=flat-square&logo=ollama&logoColor=22d3ee)
 
 Local-first AI toolset. Integrates llama.cpp, LM Studio, and OpenAI-compatible endpoints into a hybrid architecture. Sensitive work stays on device. Cloud is opt-in.
+
+![Flutter](https://img.shields.io/badge/Flutter-111?style=flat-square&logo=flutter&logoColor=fff)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-111?style=flat-square&logo=meta&logoColor=fff)
+![Ollama](https://img.shields.io/badge/Ollama-111?style=flat-square&logoColor=fff)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Silver Cam](https://silver-cam.com)
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=next.js&logoColor=22d3ee)
-![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=flat-square&logo=supabase&logoColor=22d3ee)
-![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=22d3ee)
+### ⚡ [LinkQuota](https://github.com/callmeartan/linkquota)
 
-Commerce platform with automated email workflows, edge delivery, and CI/CD. SEO and crawlability were first-class from day one.
+Open-source Edge relay and VLESS subscription manager. Quota enforcement, health checks, reproducible setup docs, and sanitized for public release.
+![Netlify](https://img.shields.io/badge/Netlify_Edge-111?style=flat-square&logo=netlify&logoColor=fff)
+![Nginx](https://img.shields.io/badge/Nginx-111?style=flat-square&logo=nginx&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-111?style=flat-square&logo=linux&logoColor=fff)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [LinkQuota](https://github.com/callmeartan/linkquota)
-![Netlify](https://img.shields.io/badge/Netlify_Edge-0d0d0d?style=flat-square&logo=netlify&logoColor=22d3ee)
-![Nginx](https://img.shields.io/badge/Nginx-0d0d0d?style=flat-square&logo=nginx&logoColor=22d3ee)
-![systemd](https://img.shields.io/badge/systemd-0d0d0d?style=flat-square&logo=linux&logoColor=22d3ee)
+### 🌐 [Silver Cam](https://silver-cam.com)
 
-Open-source Edge relay and VLESS subscription manager. Quota enforcement, health checks, reproducible setup docs, and sanitized for public release.
+Commerce platform with automated email workflows, edge delivery, and CI/CD. SEO and crawlability were first-class from day one.
+
+![Next.js](https://img.shields.io/badge/Next.js-111?style=flat-square&logo=next.js&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-111?style=flat-square&logo=supabase&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-111?style=flat-square&logo=vercel&logoColor=fff)
 
 </td>
 <td width="50%" valign="top">
+
 
 ### 🎓 Background
 ![Computer Engineering](https://img.shields.io/badge/B.Sc._Computer_Engineering-0d0d0d?style=flat-square&logoColor=22d3ee)
 
 Istanbul Beykent University
 
-Building at the overlap of AI systems, product engineering, and infrastructure. Drawn to local-first architectures — the constraints make for more honest software.
+- What's next?
+Whatever I'm curious about this month. Could be compilers, robotics, a new database engine, hard to say. I'll probably ship something by the end of it.
 
 </td>
 </tr>
@@ -81,37 +78,27 @@ Building at the overlap of AI systems, product engineering, and infrastructure. 
 
 ---
 
-## ` ` Stack
+## `/>` Stack
 
 <div align="center">
 
-**Application**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,tailwind&theme=dark" />
-
-**Backend · Data · AI**
-
-<img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs,python&theme=dark" />
-
-**Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=linux,nginx,git,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,tailwind,supabase,postgres,nodejs,python,linux,nginx,git,vercel&theme=dark&perline=7" />
 
 </div>
 
 ---
 
-## ` ` Activity
+## `/>` Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=callmeartan&theme=dark&hide_border=true&background=0d0d0d&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=64748b&dates=64748b&sideNums=e2e8f0&currStreakNum=e2e8f0" height="165"/>
+<img src="https://streak-stats.demolab.com?user=callmeartan&theme=dark&hide_border=true&background=0d0d0d&ring=ffffff&fire=aaaaaa&currStreakLabel=888888&sideLabels=555555&dates=444444&sideNums=cccccc&currStreakNum=ffffff" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=callmeartan&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=22d3ee&icon_color=22d3ee&text_color=e2e8f0&ring_color=22d3ee" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=callmeartan&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=cccccc&icon_color=888888&text_color=888888" height="160"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=callmeartan&theme=react-dark&hide_border=true&bg_color=0d0d0d&color=22d3ee&line=22d3ee&point=ffffff&area=true&area_color=22d3ee" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=callmeartan&theme=github-compact&hide_border=true&bg_color=0d0d0d&color=666666&line=888888&point=cccccc&area=true&area_color=333333" width="100%"/>
 
 </div>
 
@@ -119,11 +106,11 @@ Building at the overlap of AI systems, product engineering, and infrastructure. 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-callmeartan-0d0d0d?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/callmeartan)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-artan--ahmadi-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/artan-ahmadi)&nbsp;
-[![Email](https://img.shields.io/badge/Email-artanahmadi%40icloud.com-0d0d0d?style=for-the-badge&logo=apple&logoColor=22d3ee)](mailto:artanahmadi@icloud.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Web-artan--portfolio-0d0d0d?style=for-the-badge&logo=firebase&logoColor=22d3ee)](https://artan-portfolio.web.app)
+[![GitHub](https://img.shields.io/badge/GitHub-callmeartan-111?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/callmeartan)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-artan--ahmadi-111?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/artan-ahmadi)&nbsp;
+[![Email](https://img.shields.io/badge/Email-artanahmadi%40icloud.com-111?style=for-the-badge&logo=apple&logoColor=fff)](mailto:artanahmadi@icloud.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Web-artan--portfolio-111?style=for-the-badge&logo=firebase&logoColor=fff)](https://artan-portfolio.web.app)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,50:0f2027,100:0d0d0d&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,100:111111&height=100&section=footer" width="100%"/>
