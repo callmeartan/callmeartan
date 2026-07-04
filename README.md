@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1c1c1c&height=160&section=header&text=Artan%20Ahmadi&fontSize=42&fontColor=f1f1f1&fontAlign=50&fontAlignY=58&desc=software%20engineer&descSize=13&descColor=555555&descAlignY=78" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=3000&color=666666&center=true&vCenter=true&width=560&lines=senior+engineer+%C2%B7+full-stack+%C2%B7+AI+%C2%B7+infra;i+learn+it+%E2%86%92+i+build+it+%E2%86%92+i+ship+it;istanbul+%C2%B7+open+to+interesting+work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=3000&color=666666&center=true&vCenter=true&width=560&lines=senior+engineer+%C2%B7+full-stack+%C2%B7+AI+%C2%B7+infra;+%C2%B7+open+to+interesting+work" alt="Typing SVG" />
 </div>
 
 <br>
