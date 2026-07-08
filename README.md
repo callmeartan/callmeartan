@@ -64,6 +64,18 @@ Commerce platform with automated email workflows, edge delivery, and CI/CD. SEO 
 </td>
 <td width="50%" valign="top">
 
+### 🎨 [Royam Drawing](https://royamdrawing.com)
+
+Persian (RTL) drawing academy — course sales, phone-OTP auth, video lessons, and an admin dashboard. Self-hosted on a VPS with a custom deploy pipeline.
+
+![Next.js](https://img.shields.io/badge/Next.js-111?style=flat-square&logo=next.js&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat-square&logo=postgresql&logoColor=fff)
+![Nginx](https://img.shields.io/badge/Nginx-111?style=flat-square&logo=nginx&logoColor=fff)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🎓 Background
 
