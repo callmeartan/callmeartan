@@ -43,6 +43,7 @@ Local-first AI toolset. Integrates llama.cpp, LM Studio, and OpenAI-compatible e
 ### ⚡ [LinkQuota](https://github.com/callmeartan/linkquota)
 
 Open-source Edge relay and VLESS subscription manager. Quota enforcement, health checks, reproducible setup docs, and sanitized for public release.
+
 ![Netlify](https://img.shields.io/badge/Netlify_Edge-111?style=flat-square&logo=netlify&logoColor=fff)
 ![Nginx](https://img.shields.io/badge/Nginx-111?style=flat-square&logo=nginx&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-111?style=flat-square&logo=linux&logoColor=fff)
@@ -65,11 +66,12 @@ Commerce platform with automated email workflows, edge delivery, and CI/CD. SEO 
 
 
 ### 🎓 Background
+
 ![Computer Engineering](https://img.shields.io/badge/B.Sc._Computer_Engineering-0d0d0d?style=flat-square&logoColor=22d3ee)
 
 Istanbul Beykent University
 
-- What's next?
+**What's next?**
 Whatever I'm curious about this month. Could be compilers, robotics, a new database engine, hard to say. I'll probably ship something by the end of it.
 
 </td>
