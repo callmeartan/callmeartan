@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Artan Ahmadi — full-stack engineer and digital solutions architect">
+  <defs>
+    <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d4d4d8"/>
+      <stop offset="0.5" stop-color="#d4d4d8"/>
+      <stop offset="1" stop-color="#d4d4d8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="#fafafa" stroke="#e4e4e7"/>
+
+  <text x="72" y="82" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" letter-spacing="2.4" fill="#71717a">FULL-STACK ENGINEER &#183; DIGITAL SOLUTIONS ARCHITECT</text>
+
+  <text x="72" y="152" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="62" font-weight="600" letter-spacing="-1.8" fill="#09090b">Artan Ahmadi</text>
+
+  <text x="72" y="192" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#52525b">I take ideas from zero to launch and beyond.</text>
+
+  <line x1="72" y1="238" x2="1128" y2="238" stroke="url(#rail)" stroke-width="1"/>
+  <circle cx="72" cy="238" r="3.5" fill="#a1a1aa"/>
+  <circle cx="252" cy="238" r="3.5" fill="#a1a1aa"/>
+  <circle cx="432" cy="238" r="3.5" fill="#a1a1aa"/>
+  <circle cx="612" cy="238" r="3.5" fill="#fafafa" stroke="#3f3f46" stroke-width="1.5"/>
+
+  <text x="72" y="264" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="0.6" fill="#71717a">idea</text>
+  <text x="252" y="264" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="0.6" fill="#71717a">prototype</text>
+  <text x="432" y="264" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="0.6" fill="#71717a">launch</text>
+  <text x="612" y="264" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="0.6" fill="#3f3f46">beyond</text>
+</svg>
