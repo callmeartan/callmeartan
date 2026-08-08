@@ -24,14 +24,7 @@
 
 Full-stack engineer and digital solutions architect. I handle the whole product lifecycle — brand and prototype through web, mobile, e-commerce, automation, and the growth work that comes after launch. Founders get one partner instead of ten.
 
-> I've been fascinated by computers for as long as I can remember. Not as a career choice — the machine itself is just interesting. When something catches my attention I go all the way in, and the side effect is that I usually end up shipping it.
-
-## Currently
-
-- Building **DevIO** — a local-first LLM client for iOS, so sensitive work never leaves the device
-- Shipping client products end to end with Next.js, Flutter, and Supabase
-- Poking at whatever I'm curious about this month. Compilers, robotics, a new database engine — hard to say
-- **Open to freelance work, collaborations, and long-term partnerships**
+> I've been fascinated by computers for as long as I can remember. Not as a career choice — the machine
 
 ## Selected Work
 
